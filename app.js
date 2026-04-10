@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", () => {
 const POSTS = [
   {
     id: "mein-neuer-artikel", // → URL: post.html?id=mein-neuer-artikel
-    title: "Kicks sind nicht Energieeffizient",
+    title: "Muay Thai ist schlecht für MMA",
     excerpt: "Expected Credit Loss",
     category: "bjj", // bjj | sap | mindset
     date: "10. April 2026",
@@ -177,7 +177,7 @@ const POSTS = [
     content: `
       <p>Dein erster Absatz.</p>
 
-      <h2>Zwischenüberschrift</h2>
+      <h2>Kicks sind nicht Energieeffizient</h2>
       <p>
 
 Muay Thai ist schlecht für MMA. Der Grund sind die Kicks.
