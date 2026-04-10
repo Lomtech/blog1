@@ -175,7 +175,7 @@ const POSTS = [
     date: "10. April 2026",
     readTime: 4, // geschätzte Lesezeit in Minuten
     content: `
-      <p>Dein erster Absatz.</p>
+      <p>Absatz </p>
 
       <h2>Kicks sind nicht Energieeffizient</h2>
       <p>
