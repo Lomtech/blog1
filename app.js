@@ -169,9 +169,9 @@ document.addEventListener("DOMContentLoaded", () => {
 const POSTS = [
   {
     id: "mein-neuer-artikel", // → URL: post.html?id=mein-neuer-artikel
-    title: "IFRS 9",
+    title: "Kicks sind nicht Energieeffizient",
     excerpt: "Expected Credit Loss",
-    category: "ifrs9", // bjj | sap | mindset
+    category: "bjj", // bjj | sap | mindset
     date: "10. April 2026",
     readTime: 4, // geschätzte Lesezeit in Minuten
     content: `
@@ -179,8 +179,27 @@ const POSTS = [
 
       <h2>Zwischenüberschrift</h2>
       <p>
-      
-      Hier kommt der eigentlich Text rein.
+
+Muay Thai ist schlecht für MMA. Der Grund sind die Kicks.
+
+Kicks haben ein sehr hohes Risiko im Verhältnis zum Ertrag.
+
+Kicks sind nicht energieeffizient. Wenn zwei Kämpfer am Ende ihrer Kräfte sind, boxen sie nur noch.
+
+Wenn Kicks landen, verursachen sie einen hohen Schaden, doch wenn nicht, eröffnen sie sehr viel Raum und Zeit für Gegenangriffe.
+ 
+Kicks zwingen die Stabilität im Stand aufzugeben. Das eröffnet Möglichkeiten für den Gegner.
+
+Im Muay Thai werden auch Meidbewegungen wie im Boxen gemieden, weil sie mit Kicks bestraft werden könnten, doch die fehlende Beweglichkeit des Kopfes aus der Schlaglinie macht umso angreifbar für Fausthiebe.
+
+Hinzu kommt, dass Medienbewegungen auch Beinarbeit trainieren und voraussetzen, was beim Muay Thai im Verhältnis zum Boxen weniger ausgeprägt ist. 
+
+Beweglichkeit ist besonders wichtig im MMA, weil die Deckung mit den MMA-Handschuhen keinen ausreichenden Schutz bietet.
+
+Vor allem erhöhen Kicks das Risiko, niedergerungen zu werden. Darum wird im MMA im Verhältnis zu Muay Thai deutlich weniger gekickt als geboxt. Ich würde schätzen, dass der Anteil an Kicks im Muay Thai bei 50% und im MMA bei ca. 15% liegt.
+
+Wie siehst du aus? Schreibs in den Kommentarem. Folge mir für mehr Kampfsportinhalte.
+
       
       
       </p>
