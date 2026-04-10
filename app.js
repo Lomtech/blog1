@@ -9,6 +9,7 @@
 const CAT_LABEL = {
   bjj: "BJJ",
   sap: "SAP / Tech",
+  ifrs9: "IFRS9",
   mindset: "Mindset",
 };
 
@@ -162,3 +163,31 @@ document.addEventListener("DOMContentLoaded", () => {
     renderPost();
   }
 });
+
+// Blog Post 1:
+
+const POSTS = [
+  {
+    id: "mein-neuer-artikel", // → URL: post.html?id=mein-neuer-artikel
+    title: "IFRS 9",
+    excerpt: "Expected Credit Loss",
+    category: "ifrs9", // bjj | sap | mindset
+    date: "10. April 2026",
+    readTime: 4, // geschätzte Lesezeit in Minuten
+    content: `
+      <p>Dein erster Absatz.</p>
+
+      <h2>Zwischenüberschrift</h2>
+      <p>
+      
+      Hier kommt der eigentlich Text rein.
+      
+      
+      </p>
+
+      <blockquote>Never Pull Guard</blockquote>
+
+      <p>Abschluss.</p>
+    `,
+  },
+];
