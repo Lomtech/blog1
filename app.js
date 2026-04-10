@@ -206,7 +206,6 @@ Wie siehst du aus? Schreibs in den Kommentarem. Folge mir für mehr Kampfsportin
 
       <blockquote>Never Pull Guard</blockquote>
 
-      <p>Abschluss.</p>
     `,
   },
 ];
