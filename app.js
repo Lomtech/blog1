@@ -170,14 +170,14 @@ const POSTS = [
   {
     id: "mein-neuer-artikel", // → URL: post.html?id=mein-neuer-artikel
     title: "Muay Thai ist schlecht für MMA",
-    excerpt: "Expected Credit Loss",
+    excerpt: "Kicks sind nicht Energieeffizient",
     category: "bjj", // bjj | sap | mindset
     date: "10. April 2026",
     readTime: 4, // geschätzte Lesezeit in Minuten
     content: `
       <p>Absatz </p>
 
-      <h2>Kicks sind nicht Energieeffizient</h2>
+      <h2>Kicks sind nicht Energieeffizient.</h2>
       <p>
 
 Muay Thai ist schlecht für MMA. Der Grund sind die Kicks.
